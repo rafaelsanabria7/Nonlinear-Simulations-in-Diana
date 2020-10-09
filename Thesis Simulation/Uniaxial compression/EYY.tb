@@ -1,0 +1,1688 @@
+ Output 5                                                                                                                    Page 1
+  
+ Analysis type         NONLIN
+ Step nr.              1     
+ Load factor           1.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.000E-04
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              2     
+ Load factor           2.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -4.000E-04
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              3     
+ Load factor           3.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -6.000E-04
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              4     
+ Load factor           4.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -8.000E-04
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              5     
+ Load factor           5.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 2
+  
+ Analysis type         NONLIN
+ Step nr.              6     
+ Load factor           6.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              7     
+ Load factor           7.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              8     
+ Load factor           8.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              9     
+ Load factor           9.000E-02 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              10    
+ Load factor           1.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 3
+  
+ Analysis type         NONLIN
+ Step nr.              11    
+ Load factor           1.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              12    
+ Load factor           1.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              13    
+ Load factor           1.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              14    
+ Load factor           1.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              15    
+ Load factor           1.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -3.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 4
+  
+ Analysis type         NONLIN
+ Step nr.              16    
+ Load factor           1.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -3.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              17    
+ Load factor           1.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -3.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              18    
+ Load factor           1.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -3.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              19    
+ Load factor           1.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -3.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              20    
+ Load factor           2.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -4.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 5
+  
+ Analysis type         NONLIN
+ Step nr.              21    
+ Load factor           2.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -4.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              22    
+ Load factor           2.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -4.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              23    
+ Load factor           2.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -4.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              24    
+ Load factor           2.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -4.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              25    
+ Load factor           2.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -5.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 6
+  
+ Analysis type         NONLIN
+ Step nr.              26    
+ Load factor           2.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -5.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              27    
+ Load factor           2.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -5.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              28    
+ Load factor           2.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -5.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              29    
+ Load factor           2.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -5.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              30    
+ Load factor           3.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -6.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 7
+  
+ Analysis type         NONLIN
+ Step nr.              31    
+ Load factor           3.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -6.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              32    
+ Load factor           3.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -6.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              33    
+ Load factor           3.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -6.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              34    
+ Load factor           3.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -6.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              35    
+ Load factor           3.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -7.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 8
+  
+ Analysis type         NONLIN
+ Step nr.              36    
+ Load factor           3.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -7.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              37    
+ Load factor           3.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -7.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              38    
+ Load factor           3.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -7.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              39    
+ Load factor           3.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -7.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              40    
+ Load factor           4.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -8.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                    Page 9
+  
+ Analysis type         NONLIN
+ Step nr.              41    
+ Load factor           4.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -8.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              42    
+ Load factor           4.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -8.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              43    
+ Load factor           4.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -8.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              44    
+ Load factor           4.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -8.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              45    
+ Load factor           4.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -9.000E-03
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 10
+  
+ Analysis type         NONLIN
+ Step nr.              46    
+ Load factor           4.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -9.200E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              47    
+ Load factor           4.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -9.400E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              48    
+ Load factor           4.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -9.600E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              49    
+ Load factor           4.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -9.800E-03
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              50    
+ Load factor           5.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.000E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 11
+  
+ Analysis type         NONLIN
+ Step nr.              51    
+ Load factor           5.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.020E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              52    
+ Load factor           5.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.040E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              53    
+ Load factor           5.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.060E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              54    
+ Load factor           5.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.080E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              55    
+ Load factor           5.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.100E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 12
+  
+ Analysis type         NONLIN
+ Step nr.              56    
+ Load factor           5.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.120E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              57    
+ Load factor           5.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.140E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              58    
+ Load factor           5.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.160E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              59    
+ Load factor           5.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.180E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              60    
+ Load factor           6.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.200E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 13
+  
+ Analysis type         NONLIN
+ Step nr.              61    
+ Load factor           6.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.220E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              62    
+ Load factor           6.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.240E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              63    
+ Load factor           6.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.260E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              64    
+ Load factor           6.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.280E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              65    
+ Load factor           6.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.300E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 14
+  
+ Analysis type         NONLIN
+ Step nr.              66    
+ Load factor           6.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.320E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              67    
+ Load factor           6.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.340E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              68    
+ Load factor           6.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.360E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              69    
+ Load factor           6.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.380E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              70    
+ Load factor           7.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.400E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 15
+  
+ Analysis type         NONLIN
+ Step nr.              71    
+ Load factor           7.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.420E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              72    
+ Load factor           7.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.440E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              73    
+ Load factor           7.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.460E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              74    
+ Load factor           7.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.480E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              75    
+ Load factor           7.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.500E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 16
+  
+ Analysis type         NONLIN
+ Step nr.              76    
+ Load factor           7.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.520E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              77    
+ Load factor           7.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.540E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              78    
+ Load factor           7.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.560E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              79    
+ Load factor           7.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.580E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              80    
+ Load factor           8.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.600E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 17
+  
+ Analysis type         NONLIN
+ Step nr.              81    
+ Load factor           8.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.620E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              82    
+ Load factor           8.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.640E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              83    
+ Load factor           8.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.660E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              84    
+ Load factor           8.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.680E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              85    
+ Load factor           8.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.700E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 18
+  
+ Analysis type         NONLIN
+ Step nr.              86    
+ Load factor           8.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.720E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              87    
+ Load factor           8.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.740E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              88    
+ Load factor           8.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.760E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              89    
+ Load factor           8.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.780E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              90    
+ Load factor           9.000E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.800E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 19
+  
+ Analysis type         NONLIN
+ Step nr.              91    
+ Load factor           9.100E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.820E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              92    
+ Load factor           9.200E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.840E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              93    
+ Load factor           9.300E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.860E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              94    
+ Load factor           9.400E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.880E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              95    
+ Load factor           9.500E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.900E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 20
+  
+ Analysis type         NONLIN
+ Step nr.              96    
+ Load factor           9.600E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.920E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              97    
+ Load factor           9.700E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.940E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              98    
+ Load factor           9.800E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.960E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              99    
+ Load factor           9.900E-01 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -1.980E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              100   
+ Load factor           1.000E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.000E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 21
+  
+ Analysis type         NONLIN
+ Step nr.              101   
+ Load factor           1.010E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.020E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              102   
+ Load factor           1.020E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.040E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              103   
+ Load factor           1.030E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.060E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              104   
+ Load factor           1.040E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.080E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              105   
+ Load factor           1.050E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.100E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 22
+  
+ Analysis type         NONLIN
+ Step nr.              106   
+ Load factor           1.060E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.120E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              107   
+ Load factor           1.070E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.140E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              108   
+ Load factor           1.080E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.160E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              109   
+ Load factor           1.090E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.180E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              110   
+ Load factor           1.100E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.200E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 23
+  
+ Analysis type         NONLIN
+ Step nr.              111   
+ Load factor           1.110E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.220E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              112   
+ Load factor           1.120E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.240E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              113   
+ Load factor           1.130E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.260E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              114   
+ Load factor           1.140E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.280E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              115   
+ Load factor           1.150E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.300E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 24
+  
+ Analysis type         NONLIN
+ Step nr.              116   
+ Load factor           1.160E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.320E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              117   
+ Load factor           1.170E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.340E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              118   
+ Load factor           1.180E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.360E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              119   
+ Load factor           1.190E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.380E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              120   
+ Load factor           1.200E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.400E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 25
+  
+ Analysis type         NONLIN
+ Step nr.              121   
+ Load factor           1.210E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.420E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              122   
+ Load factor           1.220E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.440E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              123   
+ Load factor           1.230E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.460E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              124   
+ Load factor           1.240E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.480E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              125   
+ Load factor           1.250E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.500E-02
+  
+  
+  
+  
+  
+  
+  
+ Output 5                                                                                                                   Page 26
+  
+ Analysis type         NONLIN
+ Step nr.              126   
+ Load factor           1.260E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.520E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              127   
+ Load factor           1.270E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.540E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Step nr.              128   
+ Load factor           1.280E+00 
+ Result                STRAIN TOTAL  GREEN 
+ Axes                  GLOBAL
+ Location of results   INTPNT
+  
+ Elmnr Intpt       EYY   
+     1     1   -2.560E-02
+  
+  
+  
