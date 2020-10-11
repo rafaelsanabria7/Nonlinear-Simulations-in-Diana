@@ -1,0 +1,73 @@
+: Diana Datafile written by Diana 10.3
+Translated from FX+ for DIANA neutral file (version 1.2.0).
+'UNITS'
+LENGTH MM
+FORCE N
+TEMPER CELSIU
+'DIRECTIONS'
+   1   1.00000E+00   0.00000E+00   0.00000E+00
+   2   0.00000E+00   1.00000E+00   0.00000E+00
+   3   0.00000E+00   0.00000E+00   1.00000E+00
+'MODEL'
+DIMENS "2D"
+GRAVDI 2
+GRAVAC  -9.81000E+03
+'COORDINATES'
+   1   0.00000E+00   5.00000E+01   0.00000E+00
+   2   0.00000E+00   0.00000E+00   0.00000E+00
+   3   5.00000E+01   0.00000E+00   0.00000E+00
+   4   5.00000E+01   5.00000E+01   0.00000E+00
+'MATERI'
+   1 NAME   "Concrete"
+     YOUNG    3.00000E+04
+     POISON   2.00000E-01
+   2 NAME   "Concrete imported 1"
+     MCNAME CONCR
+     MATMDL TSCR
+     ASPECT
+     YOUNG    3.00000E+04
+     POISON   2.00000E-01
+     TOTCRK ROTATE
+     TENCRV HORDYK
+     TENSTR   3.00000E+00
+     GF1      1.35000E-01
+     CBSPEC ROTS
+     POIRED NONE
+     COMCRV PARABO
+     COMSTR   3.00000E+01
+     GC       3.37500E+01
+     REDCRV NONE
+     CNFCRV NONE
+'GEOMET'
+   1 NAME   "Specimem"
+     THICK    1.00000E+01
+'DATA'
+   1 NAME   "Specimem"
+'ELEMENTS'
+SET  "Auto-Mesh(Face)"
+CONNECT
+   1 Q8MEM  1 2 3 4
+MATERIAL 2
+GEOMETRY 1
+DATA 1
+'LOADS'
+CASE 1
+NAME "Traction"
+DEFORM
+/ 1 4 / TR 2   1.00000E+00
+CASE 2
+NAME "Shear"
+DEFORM
+/ 1 4 / TR 1   5.00000E-01
+COMBIN
+   1 1   1.00000E+00
+   2 1   1.00000E+00 2   1.00000E+00
+'SUPPOR'
+NAME "Boundaries 1"
+/ 2 3 / TR 2
+/ 2 1 / TR 1
+NAME "Traction"
+/ 1 4 / TR 2
+NAME "Shear"
+/ 1 4 / TR 1
+'END'

@@ -1,0 +1,52 @@
+; Version information.
+VER, 1.2.0
+
+; Unit system. 
+UNIT,     N, MM
+
+; Coordinate data. 
+CRECT,      1,   Global Rectangular,  0,        0,        0,        0,     1000,        0,        0,        0,     1000,        0
+CCYLN,      2,   Global Cylindrical,  0,        0,        0,        0,     1000,        0,        0,        0,     1000,        0
+
+; Node Data.
+NODE,      1,               0.,              50.,               0.,      1
+NODE,      2,               0.,               0.,               0.,      1
+NODE,      3,              50.,               0.,               0.,      1
+NODE,      4,              50.,              50.,               0.,      1
+
+; Element Data.
+Q8MEM ,      1,      1,      1,      1,      2,      3,      4
+
+; Mesh Set Data.
+MSET ,      1,     Default Mesh Set
+MSET ,      2,      Auto-Mesh(Face)
+SETELEM,      2 \ 
+    ,      1
+
+; Property data.
+PPSTRS_D  ,      1,         Specimem,      1,         Specimem,      1,  0,      300,      0 
+
+; Material data.
+MISO  ,      1,             Concrete,           30000.,              0.2,           12500.,               0.,        1,               0.,               0.,               0. \ 
+      ,               0.,               0.,               0.,               0.,               0.,               0. 
+
+; Boundary set data.
+BSET,      1,           Boundaries 
+
+; Constraint data.
+CONST,      1,      2, 110000
+CONST,      1,      3, 010000
+
+; Load set data.
+LSET,      1,             Traction
+LSET,      2,                Shear
+
+; Nodal displacement data.
+NDISP  ,      1,      1,      1,      0,   010000,        0,        1,        0,        0,        0,        0 
+NDISP  ,      1,      4,      1,      0,   010000,        0,        1,        0,        0,        0,        0 
+NDISP  ,      2,      1,      1,      0,   100000,        1,        0,        0,        0,        0,        0 
+NDISP  ,      2,      4,      1,      0,   100000,        1,        0,        0,        0,        0,        0 
+NDISP  ,      2,      3,      1,      0,   100000,       -1,        0,        0,        0,        0,        0 
+NDISP  ,      2,      4,      1,      0,   010000,        0,        1,        0,        0,        0,        0 
+NDISP  ,      2,      1,      1,      0,   010000,        0,       -1,        0,        0,        0,        0 
+

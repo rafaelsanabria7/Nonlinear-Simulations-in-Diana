@@ -1,0 +1,260 @@
+ Output 4                                                                                                                    Page 1
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              21    
+ Load factor           1.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.475E+00  0.000E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              22    
+ Load factor           2.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.417E+00  5.204E-17
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              23    
+ Load factor           3.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.361E+00 -5.551E-17
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              24    
+ Load factor           4.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.309E+00 -1.110E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              25    
+ Load factor           5.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.259E+00 -1.041E-16
+  
+  
+  
+  
+  
+  
+  
+ Output 4                                                                                                                    Page 2
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              26    
+ Load factor           6.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.212E+00 -1.041E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              27    
+ Load factor           7.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.168E+00  6.939E-18
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              28    
+ Load factor           8.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.126E+00  2.220E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              29    
+ Load factor           9.000E-03 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.087E+00 -2.082E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              30    
+ Load factor           1.000E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.049E+00  2.082E-16
+  
+  
+  
+  
+  
+  
+  
+ Output 4                                                                                                                    Page 3
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              31    
+ Load factor           1.100E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    1.014E+00 -1.388E-17
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              32    
+ Load factor           1.200E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    9.810E-01  5.967E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              33    
+ Load factor           1.300E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    9.497E-01  0.000E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              34    
+ Load factor           1.400E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    9.202E-01  4.025E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              35    
+ Load factor           1.500E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    8.923E-01  0.000E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 4                                                                                                                    Page 4
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              36    
+ Load factor           1.600E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    8.661E-01  4.163E-16
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              37    
+ Load factor           1.700E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    8.413E-01  1.388E-17
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              38    
+ Load factor           1.800E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    8.179E-01  0.000E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              39    
+ Load factor           1.900E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    7.957E-01  1.388E-17
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              40    
+ Load factor           2.000E-02 
+ Result                STRESS CRACK  CAUCHY
+ Location of results   INTPNT
+  
+ Elmnr Intpt       Sknn       Sknt  
+     1     1    7.748E-01  0.000E+00
+  
+  
+  
