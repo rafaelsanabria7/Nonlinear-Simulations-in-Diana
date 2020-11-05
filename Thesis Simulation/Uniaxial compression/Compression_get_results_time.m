@@ -169,7 +169,11 @@ plot(alpha_j1,f1)
 plot(alpha_j2,f2)
 plot(alpha_j3,f3)
 
-step = step + 1;
+ fig = gcf;
+ fig.PaperPositionMode = 'auto'
+ fig_pos = fig.PaperPosition;
+ fig.PaperSize = [fig_pos(3) fig_pos(4)];
+ print(fig,'compression','-dpdf')
 
 
 end

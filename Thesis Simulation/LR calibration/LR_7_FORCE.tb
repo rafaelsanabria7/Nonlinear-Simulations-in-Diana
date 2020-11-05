@@ -1,0 +1,632 @@
+ Output 2                                                                                                                    Page 1
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              1     
+ Load factor           1.000E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.598E+03
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              1     
+ Load factor           1.000E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.598E+03
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              2     
+ Load factor           4.000E-01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.626E+03
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              3     
+ Load factor           8.000E-01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    8.654E+03
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              4     
+ Load factor           1.200E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    1.167E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 2
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              5     
+ Load factor           1.600E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    1.462E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              6     
+ Load factor           2.000E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    1.713E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              7     
+ Load factor           2.400E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    1.916E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              8     
+ Load factor           2.800E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.107E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              9     
+ Load factor           3.200E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.271E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 3
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              10    
+ Load factor           3.600E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.416E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              11    
+ Load factor           4.000E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.571E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              12    
+ Load factor           4.400E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.723E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              13    
+ Load factor           4.800E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    2.868E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              14    
+ Load factor           5.200E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.009E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 4
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              15    
+ Load factor           5.600E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.146E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              16    
+ Load factor           6.000E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.280E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              17    
+ Load factor           6.400E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.412E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              18    
+ Load factor           6.800E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.536E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              19    
+ Load factor           7.200E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.661E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 5
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              20    
+ Load factor           7.600E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.736E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              21    
+ Load factor           8.000E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.867E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              22    
+ Load factor           8.400E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    3.991E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              23    
+ Load factor           8.800E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.108E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              24    
+ Load factor           9.200E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.230E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 6
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              25    
+ Load factor           9.600E+00 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.350E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              26    
+ Load factor           1.000E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.472E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              27    
+ Load factor           1.040E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.591E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              28    
+ Load factor           1.080E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.703E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              29    
+ Load factor           1.120E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.826E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 7
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              30    
+ Load factor           1.160E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    4.935E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              31    
+ Load factor           1.200E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.048E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              31    
+ Load factor           1.200E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.048E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              32    
+ Load factor           1.240E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.161E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              33    
+ Load factor           1.280E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.280E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 8
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              34    
+ Load factor           1.320E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.392E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              35    
+ Load factor           1.360E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.502E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              36    
+ Load factor           1.400E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.625E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              37    
+ Load factor           1.440E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.735E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              38    
+ Load factor           1.480E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.853E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                    Page 9
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              39    
+ Load factor           1.520E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    5.972E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              40    
+ Load factor           1.560E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    6.066E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              41    
+ Load factor           1.600E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    6.178E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              42    
+ Load factor           1.640E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    6.271E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              43    
+ Load factor           1.680E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    6.276E+04
+  
+  
+  
+  
+  
+  
+  
+ Output 2                                                                                                                   Page 10
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              44    
+ Load factor           1.720E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    6.381E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              45    
+ Load factor           1.760E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    6.364E+04
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              46    
+ Load factor           1.800E+01 
+ Result                FORCE  REACTI TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       FBZ   
+  5253    1.632E+04
+  
+  
+  

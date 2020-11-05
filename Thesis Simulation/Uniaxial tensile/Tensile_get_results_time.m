@@ -160,6 +160,12 @@ xlabel('Eknn')
 ylabel('Sknn') 
 step = step + 1;
 
+ fig = gcf;
+ fig.PaperPositionMode = 'auto'
+ fig_pos = fig.PaperPosition;
+ fig.PaperSize = [fig_pos(3) fig_pos(4)];
+ print(fig,'Hordijk','-dpdf')
+
 
 end
 delete(t) 

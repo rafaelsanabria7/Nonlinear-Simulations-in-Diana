@@ -1,0 +1,282 @@
+*PHASE LABEL="Phased" 
+  BEGIN ACTIVE 
+    ELEMEN "Slab" "Plates" "Support_Plates" "Interface Element" / 
+    REINFO "Bar_12.5(1)" "Bar_12.5(2)" "Bar_12.5(3)" "Bar_12.5(4)" \ 
+           "Bar_12.5(5)" "Bar_12.5(6)" "Bar_12.5(7)" "Bar_12.5(8)" \ 
+           "Bar_12.5(9)" "Bar_12.5(10)" "Bar_12.5(11)" "Bar_12.5(12)" \ 
+           "Bar_12.5(13)" "Bar_12.5(14)" "Bar_12.5(15)" "Bar_12.5(16)" \ 
+           "Bar_12.5(17)" "Bar_12.5(18)" "Bar_12.5(19)" "Bar_12.5(20)" \ 
+           "Bar_6.3(1)" "Bar_6.3(2)" "Bar_6.3(3)" "Bar_6.3(4)" "Bar_6.3(5)" \ 
+           "Bar_6.3(6)" "Bar_6.3(7)" "Bar_6.3(8)" "Bar_6.3(9)" "Bar_6.3(10)" \ 
+           "Bar_6.3(11)" "Bar_6.3(12)" / 
+    SUPPOR "Symmetry" "L_Displacement" 
+    BEGIN AUTODE 
+      INTERF OFF 
+      BOUNDA OFF 
+    END AUTODE 
+  END ACTIVE 
+*NONLIN LABEL="Structural nonlinear 3" 
+  BEGIN EXECUT 
+    BEGIN LOAD 
+      LOADNR 1 
+      STEPS EXPLIC 
+    END LOAD 
+    BEGIN ITERAT 
+      MAXITE 200 
+      METHOD SECANT 
+      LINESE 
+      BEGIN CONVER 
+        SIMULT ON 
+        FORCE CONTIN 
+        DISPLA CONTIN 
+        ENERGY CONTIN 
+      END CONVER 
+    END ITERAT 
+  END EXECUT 
+  SOLVE PARDIS 
+  BEGIN OUTPUT 
+    TEXT "Output 2" 
+    TABULA 
+    FILE  LR_20_FORCE 
+    APPEND 
+    LAYOUT 
+    BEGIN SELECT 
+      NODES 5253 / 
+      BEGIN ELEMEN ALL / 
+        CROSSE ALL / 
+        INTPNT ALL / 
+        NODES ALL / 
+        STRPNT ALL / 
+      END ELEMEN 
+      BEGIN REINFO ALL / 
+        ELEMEN ALL / 
+        INTPNT ALL / 
+      END REINFO 
+      STEPS ALL / 
+    END SELECT 
+    FORCE REACTI TRANSL GLOBAL Z 
+  END OUTPUT 
+  BEGIN OUTPUT 
+    TEXT "Output 5" 
+    TABULA 
+    FILE  LR_20_DISP 
+    APPEND 
+    LAYOUT COMBIN 
+    BEGIN SELECT 
+      NODES 5253 / 
+      BEGIN ELEMEN ALL / 
+        CROSSE ALL / 
+        INTPNT ALL / 
+        NODES ALL / 
+        STRPNT ALL / 
+      END ELEMEN 
+      BEGIN REINFO ALL / 
+        ELEMEN ALL / 
+        INTPNT ALL / 
+      END REINFO 
+      STEPS ALL / 
+    END SELECT 
+    DISPLA TOTAL TRANSL GLOBAL Z 
+  END OUTPUT 
+*PHASE LABEL="Phased 1" 
+  BEGIN ACTIVE 
+    ELEMEN "Slab" "Plates" "Support_Plates" "Interface Element" \ 
+           "1-Node Element" / 
+    REINFO "Bar_12.5(1)" "Bar_12.5(2)" "Bar_12.5(3)" "Bar_12.5(4)" \ 
+           "Bar_12.5(5)" "Bar_12.5(6)" "Bar_12.5(7)" "Bar_12.5(8)" \ 
+           "Bar_12.5(9)" "Bar_12.5(10)" "Bar_12.5(11)" "Bar_12.5(12)" \ 
+           "Bar_12.5(13)" "Bar_12.5(14)" "Bar_12.5(15)" "Bar_12.5(16)" \ 
+           "Bar_12.5(17)" "Bar_12.5(18)" "Bar_12.5(19)" "Bar_12.5(20)" \ 
+           "Bar_6.3(1)" "Bar_6.3(2)" "Bar_6.3(3)" "Bar_6.3(4)" "Bar_6.3(5)" \ 
+           "Bar_6.3(6)" "Bar_6.3(7)" "Bar_6.3(8)" "Bar_6.3(9)" "Bar_6.3(10)" \ 
+           "Bar_6.3(11)" "Bar_6.3(12)" / 
+    SUPPOR "Symmetry" "L_Displacement" 
+    BEGIN AUTODE 
+      INTERF OFF 
+      BOUNDA OFF 
+    END AUTODE 
+  END ACTIVE 
+*NONLIN LABEL="Structural nonlinear 4" 
+  BEGIN EXECUT 
+    BEGIN LOAD 
+      LOADNR 1 
+      STEPS EXPLIC 
+    END LOAD 
+    BEGIN ITERAT 
+      MAXITE 200 
+      METHOD SECANT 
+      LINESE 
+      BEGIN CONVER 
+        SIMULT ON 
+        FORCE CONTIN 
+        DISPLA CONTIN 
+        ENERGY CONTIN 
+      END CONVER 
+    END ITERAT 
+  END EXECUT 
+  BEGIN EXECUT 
+    TEXT "new execute block 2" 
+    BEGIN LOAD 
+      LOADNR 2 
+      BEGIN STEPS 
+        EXPLIC SIZES 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4  \ 
+ 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+        SAVE 30 / 
+      END STEPS 
+    END LOAD 
+    BEGIN ITERAT 
+      MAXITE 200 
+      METHOD SECANT 
+      LINESE 
+      BEGIN CONVER 
+        SIMULT ON 
+        FORCE CONTIN 
+        DISPLA CONTIN 
+        ENERGY CONTIN 
+      END CONVER 
+    END ITERAT 
+  END EXECUT 
+  SOLVE PARDIS 
+  BEGIN OUTPUT 
+    TEXT "Output 2" 
+    TABULA 
+    FILE  LR_20_FORCE 
+    APPEND 
+    LAYOUT 
+    BEGIN SELECT 
+      NODES 5253 / 
+      BEGIN ELEMEN ALL / 
+        CROSSE ALL / 
+        INTPNT ALL / 
+        NODES ALL / 
+        STRPNT ALL / 
+      END ELEMEN 
+      BEGIN REINFO ALL / 
+        ELEMEN ALL / 
+        INTPNT ALL / 
+      END REINFO 
+      STEPS ALL / 
+    END SELECT 
+    FORCE REACTI TRANSL GLOBAL Z 
+  END OUTPUT 
+  BEGIN OUTPUT 
+    TEXT "Output 5" 
+    TABULA 
+    FILE  LR_20_DISP 
+    APPEND 
+    LAYOUT COMBIN 
+    BEGIN SELECT 
+      NODES 5253 / 
+      BEGIN ELEMEN ALL / 
+        CROSSE ALL / 
+        INTPNT ALL / 
+        NODES ALL / 
+        STRPNT ALL / 
+      END ELEMEN 
+      BEGIN REINFO ALL / 
+        ELEMEN ALL / 
+        INTPNT ALL / 
+      END REINFO 
+      STEPS ALL / 
+    END SELECT 
+    DISPLA TOTAL TRANSL GLOBAL Z 
+  END OUTPUT 
+*NONLIN LABEL="Structural nonlinear 5" 
+  BEGIN EXECUT 
+    TEXT "new execute block 2" 
+    BEGIN LOAD 
+      LOADNR 2 
+      BEGIN STEPS 
+        EXPLIC SIZES 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4  \ 
+ 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4  \ 
+ 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+        RESTOR 30 
+      END STEPS 
+    END LOAD 
+    BEGIN ITERAT 
+      MAXITE 200 
+      METHOD SECANT 
+      LINESE 
+      BEGIN CONVER 
+        SIMULT ON 
+        FORCE CONTIN 
+        DISPLA CONTIN 
+        ENERGY CONTIN 
+      END CONVER 
+    END ITERAT 
+    BEGIN STOP 
+      LOAD OFF 
+      BEGIN RESULT 
+        BEGIN SELECT 
+          NODES 5253 / 
+          BEGIN ELEMEN ALL / 
+            CROSSE ALL / 
+            INTPNT ALL / 
+            NODES ALL / 
+            STRPNT ALL / 
+          END ELEMEN 
+          BEGIN REINFO ALL / 
+            ELEMEN ALL / 
+            INTPNT ALL / 
+          END REINFO 
+        END SELECT 
+        BEGIN FORCE 
+          BEGIN REACTI 
+            BEGIN TRANSL 
+              BEGIN GLOBAL 
+                Z 
+                MAXVAL 200000 
+                MINVAL 37500 
+              END GLOBAL 
+            END TRANSL 
+          END REACTI 
+        END FORCE 
+      END RESULT 
+    END STOP 
+  END EXECUT 
+  SOLVE PARDIS 
+  BEGIN OUTPUT 
+    TEXT "Output 2" 
+    TABULA 
+    FILE  LR_20_FORCE 
+    APPEND 
+    LAYOUT 
+    BEGIN SELECT 
+      NODES 5253 / 
+      BEGIN ELEMEN ALL / 
+        CROSSE ALL / 
+        INTPNT ALL / 
+        NODES ALL / 
+        STRPNT ALL / 
+      END ELEMEN 
+      BEGIN REINFO ALL / 
+        ELEMEN ALL / 
+        INTPNT ALL / 
+      END REINFO 
+      STEPS ALL / 
+    END SELECT 
+    FORCE REACTI TRANSL GLOBAL Z 
+  END OUTPUT 
+  BEGIN OUTPUT 
+    TEXT "Output 5" 
+    TABULA 
+    FILE  LR_20_DISP 
+    APPEND 
+    LAYOUT COMBIN 
+    BEGIN SELECT 
+      NODES 5253 / 
+      BEGIN ELEMEN ALL / 
+        CROSSE ALL / 
+        INTPNT ALL / 
+        NODES ALL / 
+        STRPNT ALL / 
+      END ELEMEN 
+      BEGIN REINFO ALL / 
+        ELEMEN ALL / 
+        INTPNT ALL / 
+      END REINFO 
+      STEPS ALL / 
+    END SELECT 
+    DISPLA TOTAL TRANSL GLOBAL Z 
+  END OUTPUT 
+*END 
