@@ -1,0 +1,620 @@
+ Output 3                                                                                                                    Page 1
+  
+ Analysis type         NONLIN
+ Phase nr.             1     
+ Step nr.              1     
+ Load factor           1.000E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.165E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              1     
+ Load factor           1.000E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.165E-02
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              2     
+ Load factor           1.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              3     
+ Load factor           2.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              4     
+ Load factor           3.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.316E-01
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 2
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              5     
+ Load factor           4.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              6     
+ Load factor           5.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -5.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              7     
+ Load factor           6.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -6.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              8     
+ Load factor           7.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -7.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              9     
+ Load factor           8.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -8.316E-01
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 3
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              10    
+ Load factor           9.000E-01 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -9.316E-01
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              11    
+ Load factor           1.000E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.032E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              12    
+ Load factor           1.100E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.132E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              13    
+ Load factor           1.200E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.232E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              14    
+ Load factor           1.300E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.332E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 4
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              15    
+ Load factor           1.400E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.432E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              16    
+ Load factor           1.500E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.532E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              17    
+ Load factor           1.600E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.632E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              18    
+ Load factor           1.700E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.732E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              19    
+ Load factor           1.800E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.832E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 5
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              20    
+ Load factor           1.900E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -1.932E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              21    
+ Load factor           2.000E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.032E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              22    
+ Load factor           2.100E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.132E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              23    
+ Load factor           2.200E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.232E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              24    
+ Load factor           2.300E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.332E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 6
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              25    
+ Load factor           2.400E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.432E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              26    
+ Load factor           2.500E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.532E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              27    
+ Load factor           2.600E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.632E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              28    
+ Load factor           2.700E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.732E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              29    
+ Load factor           2.800E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.832E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 7
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              30    
+ Load factor           2.900E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -2.932E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              31    
+ Load factor           3.000E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.032E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              32    
+ Load factor           3.100E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.132E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              33    
+ Load factor           3.200E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.232E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              34    
+ Load factor           3.300E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.332E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 8
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              35    
+ Load factor           3.400E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.432E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              36    
+ Load factor           3.500E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.532E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              37    
+ Load factor           3.600E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.632E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              38    
+ Load factor           3.700E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.732E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              39    
+ Load factor           3.800E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.832E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                    Page 9
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              40    
+ Load factor           3.900E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -3.932E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              41    
+ Load factor           4.000E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.032E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              42    
+ Load factor           4.100E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.132E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              43    
+ Load factor           4.200E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.232E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              44    
+ Load factor           4.300E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.332E+00
+  
+  
+  
+  
+  
+  
+  
+ Output 3                                                                                                                   Page 10
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              45    
+ Load factor           4.400E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.432E+00
+  
+  
+  
+ Analysis type         NONLIN
+ Phase nr.             2     
+ Step nr.              46    
+ Load factor           4.500E+00 
+ Result                DISPLA TOTAL  TRANSL
+ Axes                  GLOBAL
+  
+ Nodnr       TDtY  
+ 18443   -4.532E+00
+  
+  
+  
